@@ -5,12 +5,13 @@
 
 ## ¿Por dónde empezamos? 🏁
 
+![html css js](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/html_css_js.jpg)
 * Conceptos básicos
 	- HTML
 	- CSS
 	- Javascript
 
-[codecademy](https://www.codecademy.com/learn)
+[tutoriales para empezar, codecademy](https://www.codecademy.com/learn)
 
 
 ## Recursos 🥙
