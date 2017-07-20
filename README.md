@@ -103,10 +103,10 @@ Quizás te valga...
 ![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/opinion.jpg)
 
 * Abajo los puntos y comas!!
-	- http://eslint.org/
-	- https://prettier.io/
+	- [eslint](http://eslint.org/)
+	- [prettier](https://prettier.io/)
 
-* Webassembly http://webassembly.org/
+* [Webassembly](http://webassembly.org/)
 
 
 ## Noticias 📰
@@ -120,10 +120,14 @@ Quizás te valga...
 
 ## Enlaces adicionales 🔗
 
-* VueConf https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw
-* Feathers repo https://github.com/feathersjs
-* Feathers docs https://docs.feathersjs.com/
-* Angular vs React vs Vue
+* [VueConf](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
+* [Feathers repo](https://github.com/feathersjs)
+* [Feathers docs](https://docs.feathersjs.com/)
+* [Angular vs React vs Vue](https://www.youtube.com/watch?v=KMX1mFEmM3E)
+* [Advanced SCSS](https://gist.github.com/jareware/4738651)
+* [JavaScript Patterns for 2017](https://www.youtube.com/watch?v=hO7mzO83N1Q)
+* [Create a Node.js GraphQL Server](https://www.youtube.com/playlist?list=PLs2PzMqLzi7WkEKE9-DeVODZI63P4g6vk)
+* [Compiling for the Web with WebAssembly](https://www.youtube.com/watch?v=6v4E6oksar0)
 
 
 ## Contacto 🙋
