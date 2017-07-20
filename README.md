@@ -3,6 +3,9 @@
 > Que habría gustado saber antes de meterme a programador web.
 > El siguiente listado es solo un reflejo de mi opinión.
 
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+
+
 ## ¿Por dónde empezamos? 🏁
 
 ![html css js](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/html_css_js.jpg)
