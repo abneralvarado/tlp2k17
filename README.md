@@ -19,17 +19,17 @@
 
 ## Recursos 🥙
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/codepen_github.jpg)
 
 Buscadores de código para econtrar ejemplos, ayuda, herramientas, etc...
 
-* http://codepen.io/
-* https://github.com/search
+* [codepen](http://codepen.io/)
+* [github](https://github.com/search)
 
 
 ## ¿Qué podemos hacer con esto? 🔨
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/d3_p4_phaser.jpg)
 
 Hay vida más allá de webs y formularios.
 
@@ -38,19 +38,19 @@ Hay vida más allá de webs y formularios.
 * [phaser](https://phaser.io/)
 
 
-## ¡Si yo lo que quiero es hacer una app! 📱 ¿Esto para qué me sirve? 
+## ¡Si yo lo que quiero es hacer una app! 📱 ¿Esto para qué me sirve?
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/electron_cordova.jpg)
 
 Quizás te valga...
 
-* https://electron.atom.io/
-* https://cordova.apache.org/
+* [electron](https://electron.atom.io/)
+* [cordova](https://cordova.apache.org/)
 
 
 ## Vale bien, ¿por dónde puedo seguir mejorando? 💪
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/keep_improving.jpg)
 
 * [markdown](https://daringfireball.net/projects/markdown/syntax)
 * [pugjs](https://pugjs.org/api/getting-started.html)
@@ -62,15 +62,15 @@ Quizás te valga...
 
 ## Lo que todos vemos (frontend) 👀
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/vue_webpack.jpg)
 
 * [vuejs](https://vuejs.org/)
 * [vuejs-templates](https://github.com/vuejs-templates/webpack)
 
 
-## La pastilla roja (backend) 🍦 
+## La pastilla roja (backend) 🔴
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/backend.jpg)
 
 * [nodejs](https://nodejs.org/en/)
 * [feathersjs](https://feathersjs.com/)
@@ -79,19 +79,19 @@ Quizás te valga...
 
 ## Aprender las siguientes herramientas no es estrictamente necesario, pero tampoco lo es ducharse y sin embargo lo haces ¿no? 🛀
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/linux_git_terminal.jpg)
 
-* [Unix - GNU / Linux]()
-* [Terminal]()
-* [Git]()
-* [Personalizar tu editor]()
-* [Hacer tests]()
-* [Documentar]()
+* [Unix - GNU / Linux](https://es.wikipedia.org/wiki/Unix)
+* [Terminal](https://es.wikipedia.org/wiki/Terminal#Electr.C3.B3nica_e_inform.C3.A1tica)
+* [Git](https://es.wikipedia.org/wiki/Git)
+* Personalizar tu editor
+* Hacer tests
+* Documentar
 
 
 ## Lo de web moderna empiezo a entenderlo pero... ¿y lo de "en tiempo real" qué significa? ⚡️
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/real_time.jpg)
 
 * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 * [feathersjs](https://feathersjs.com/)
@@ -100,7 +100,7 @@ Quizás te valga...
 
 ## Mi opinión 💩
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/opinion.jpg)
 
 * Abajo los puntos y comas!!
 	- http://eslint.org/
@@ -111,7 +111,7 @@ Quizás te valga...
 
 ## Noticias 📰
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/news.jpg)
 
 * https://news.ycombinator.com/
 * https://www.reddit.com/subreddits/search?q=
@@ -134,4 +134,4 @@ Quizás te valga...
 
 ## ¿Preguntas? ❓
 
-![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
+![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/wtf.gif)
