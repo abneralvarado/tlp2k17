@@ -10,7 +10,7 @@
 	- CSS
 	- Javascript
 
-https://www.codecademy.com/learn
+[codecademy](https://www.codecademy.com/learn)
 
 
 ## Recursos 🥙
@@ -41,19 +41,19 @@ https://cordova.apache.org/
 * https://babeljs.io/
 * Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-## Lo que todos vemos (frontend) 👀
+## Lo que todos vemos (frontend) 👀
 
 https://vuejs.org/
 https://github.com/vuejs-templates/webpack
 
 
-## Llega la parte que solo los desarrolladores ven (backend) 🍦
+## Llega la parte que solo los desarrolladores ven (backend) 🍦
 
 https://www.digitalocean.com/
 https://feathersjs.com/
 
 
-## Aprender las siguientes herramientas no es estrictamente necesario,
+## Aprender las siguientes herramientas no es estrictamente necesario,
 ## Pero tampoco lo es ducharse y sin embargo lo haces ¿no? 🛀
 
 * Unix - GNU / Linux
