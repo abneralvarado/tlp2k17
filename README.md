@@ -72,8 +72,9 @@ Quizás te valga...
 
 ![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
 
-* https://www.digitalocean.com/
-* https://feathersjs.com/
+* [nodejs](https://nodejs.org/en/)
+* [feathersjs](https://feathersjs.com/)
+* [digitalocean](https://www.digitalocean.com/)
 
 
 ## Aprender las siguientes herramientas no es estrictamente necesario, pero tampoco lo es ducharse y sin embargo lo haces ¿no? 🛀
