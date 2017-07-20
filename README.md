@@ -68,7 +68,7 @@ Quizás te valga...
 * [vuejs-templates](https://github.com/vuejs-templates/webpack)
 
 
-## La pastilla roja (backend) 🍦 
+## La pastilla roja (backend) 🔴
 
 ![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
 
