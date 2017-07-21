@@ -25,13 +25,14 @@ npm install -g feathers-cli
 mkdir feathers-app
 cd feathers-app
 feathers generate app
+feathers generate authentication
 feathers generate service
 ```
 
 # Instalar feathers-vuex
 https://github.com/feathersjs/feathers-vuex
 ```
-npm install feathers-vuex --save
+npm install feathers feathers-hooks feathers-socketio feathers-authentication-client socket.io-client feathers-reactive rxjs vuex feathers-vuex
 ```
 
 # Preparar server (muy básico e incompleto)
