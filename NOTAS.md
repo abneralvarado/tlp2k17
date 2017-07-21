@@ -25,6 +25,7 @@ npm install -g feathers-cli
 mkdir feathers-app
 cd feathers-app
 feathers generate app
+feathers generate service
 ```
 
 # Instalar feathers-vuex
