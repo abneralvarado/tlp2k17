@@ -1,6 +1,6 @@
 # TLP2k17 - Web moderna en tiempo real 🌎
 
-> Que habría gustado saber antes de meterme a programador web.
+> Que me habría gustado saber antes de meterme a programador web.
 > El siguiente listado es solo un reflejo de mi opinión.
 
 ![repo url](https://raw.githubusercontent.com/ellipticaldoor/tlp2k17/master/img/url.jpg)
